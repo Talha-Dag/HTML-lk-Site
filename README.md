@@ -1,3 +1,3 @@
 # HTML-lk-Site
-#Kendim ve oyunların kısaca tarihinden kesit.
-*İlk site*
+**Kendim ve oyunların kısaca tarihinden kesit.**
+**İlk site**
